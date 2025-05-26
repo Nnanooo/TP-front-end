@@ -28,6 +28,12 @@ main {
         text-align: center;
         color: red;
         text-decoration: underline red;
+
+
+    }
+
+    .trabajar-nosotros {
+        font-size: 2rem;
     }
 
     .main-container {
@@ -101,6 +107,18 @@ main {
             text-align: center;
             text-decoration: none;
         }
+    }
+
+    .formulario {
+        margin-left: 5%;
+    }
+
+    .boton-enviar {
+        margin-left: 5%;
+    }
+
+    .boton-borrar {
+        margin-left: 5%;
     }
 }
 
